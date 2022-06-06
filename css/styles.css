@@ -1,6 +1,13 @@
-body{
-    background-color: pink;
+.container{
+    background-color: rgb(226, 208, 211);
 }
-h1  {
-    color: blue;
+.text-purple{
+    color: rgb(48, 13, 81);
+}
+
+.gallery{
+  max-width: 350px; 
+}
+.cake{
+    height:198px ;
 }
